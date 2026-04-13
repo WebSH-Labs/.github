@@ -9,9 +9,18 @@ Core Functionality
 - Encrypted synchronization: Optional end-to-end encrypted sync for settings, server lists, and command snippets.
 - Session sharing: Live terminal output streaming with read-only permissions for debugging and collaboration.
 
-<img width="1915" height="918" alt="image" src="https://github.com/user-attachments/assets/c3eff75c-7bdc-4c5a-b4b2-8151c67645bb" />
-
 ### Project Status
 The system is designed for developers and system administrators who require remote shell access with a focus on privacy and isolation. All network communications are protected via TLS, and user authentication utilizes memory-hard hashing.
 
 Link: https://websh.dev
+
+# Some demos
+
+### Tiling demo
+
+<img width="1915" height="918" alt="image" src="https://github.com/user-attachments/assets/c3eff75c-7bdc-4c5a-b4b2-8151c67645bb" />
+
+
+### Sharing demo
+
+<video width="1915" height="918" src="https://github.com/user-attachments/assets/413456c9-6f20-4109-a978-11437bf3c97a" />
